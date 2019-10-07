@@ -12,10 +12,10 @@ Usage :
 6) Provide your hostname as set in the /etc/hosts file
 
 if you wanna config a master node, simply click 
-6) ./launcher.sh
-7) Provide you local "NON ROOT" username 
-8) Provide your hostname as set in the /etc/hosts file
-9) Click on the link and use the generated token to access the UI
+7) ./launcher.sh
+8) Provide you local "NON ROOT" username 
+9) Provide your hostname as set in the /etc/hosts file
+10) Click on the link and use the generated token to access the UI
 
 the script will automatically add Flannel , Dashboard UI , Create a an admin-user and provide you with the join command, the token, and dashboard link
 
