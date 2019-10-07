@@ -10,9 +10,7 @@ Usage :
 4) Cd "azscript"
 5) ./installer.sh
 6) Provide your hostname as set in the /etc/hosts file
-
-if you wanna config a master node, simply click 
-7) ./launcher.sh
+7) ./launcher.sh (optional if you wanna config a master node)
 8) Provide you local "NON ROOT" username 
 9) Provide your hostname as set in the /etc/hosts file
 10) Click on the link and use the generated token to access the UI
